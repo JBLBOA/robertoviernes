@@ -1,0 +1,52 @@
+{
+	"storyName": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"roberto",
+			"gf",
+			[
+				165,
+				0,
+				77
+			]
+		],
+		[
+			"cursed-arms",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"el pepe",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"showtime",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "roberto"
+}
